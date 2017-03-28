@@ -1,0 +1,14 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3001"
+  },
+  "author": "Steve Thomson <organicpanda@gmail.com>",
+  "dependencies": {
+    "next": "^2.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
